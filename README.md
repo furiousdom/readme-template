@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/furiousdom/readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/elangosundar/readme-template?style=for-the-badge" alt="Stars Badge" />
+    <img src="https://img.shields.io/github/stars/furiousdom/readme-template?style=for-the-badge" alt="Stars Badge" />
   </a>
   <a href="https://github.com/furiousdom/readme-template/network/members">
     <img src="https://img.shields.io/github/forks/furiousdom/readme-template?style=for-the-badge" alt="Forks Badge" />
