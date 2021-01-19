@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/furiousdom/readme-template">
-    <img src="../static-assets/logo_name.png" alt="Logo" width="60" height="60">
+    <img src="../static-assets/logo.png" alt="Logo" width="60" height="60">
   </a>
   <h1>Dom's Readme Template</h1>
   <p><i>An awesome template to jump start other projects.</i></p>
@@ -43,7 +43,7 @@
 
 ## About The Project
 
-[Dom's Readme Template Screen Shot](../static-assets/screenshot_name.png)
+[Dom's Readme Template Screen Shot](../static-assets/screenshot.png)
 
 This is a README project template meant to be a starting point so I can easily deal with starting a new project.
 As I need to work on projects with different technology stacks I will create more README files that are basically the same but different in key parts. The plan is to store these different README's in different branches and name those branches accordingly.
