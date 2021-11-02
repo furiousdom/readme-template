@@ -43,7 +43,7 @@
 
 ## About The Project
 
-[Dom's Readme Template Screen Shot](../static-assets/screenshot.png)
+![Dom's Readme Template Screen Shot](../static-assets/screenshot.png)
 
 This is a README project template meant to be a starting point so I can easily deal with starting a new project.
 As I need to work on projects with different technology stacks I will create more README files that are basically the same but different in key parts. The plan is to store these different README's in different branches and name those branches accordingly.
@@ -115,7 +115,7 @@ For a list of proposed features (and known issues) see the [open issues](https:/
 
 Contributions are what make the open source community such an amazing place to be, learn, inspire, and create. Any contributions are **greatly appreciated**.
 
-To contribute to Dom's Readme Template please create a pull request.
+To contribute to `Dom's Readme Template` please create a pull request.
 You can see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 

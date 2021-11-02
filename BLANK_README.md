@@ -38,7 +38,7 @@
 
 <div align="center">
   <a href="https://github.com/user_name/repo_name/stargazers">
-    <img src="https://img.shields.io/github/stars/elangosundar/repo_name?style=for-the-badge" alt="Stars Badge" />
+    <img src="https://img.shields.io/github/stars/user_name/repo_name?style=for-the-badge" alt="Stars Badge" />
   </a>
   <a href="https://github.com/user_name/repo_name/network/members">
     <img src="https://img.shields.io/github/forks/user_name/repo_name?style=for-the-badge" alt="Forks Badge" />
@@ -140,7 +140,7 @@ For a list of proposed features (and known issues) see the [open issues](https:/
 
 Contributions are what make the open source community such an amazing place to be, learn, inspire, and create. Any contributions are **greatly appreciated**.
 
-To contribute to project_title please create a pull request.
+To contribute to `project_title` please create a pull request.
 You can see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
