@@ -50,7 +50,7 @@ As I need to work on projects with different technology stacks I will create mor
 
 Most of the text on this particular README is here to show off how the fully populated README file looks like.
 
-I will make all README's in this repository fit my preferences but the BLANK_README in the master branch is free of any predefined setups so that anyone can use it. Just follow the instructions in the comments and it you can modify it in no time.
+I will make all README's in this repository fit my preferences but the BLANK_README in the master branch is free of any predefined setups so that anyone can use it. Just follow the instructions in the comments and you can modify it in no time.
 
 Happy coding :)
 
